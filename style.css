@@ -1,12 +1,22 @@
 body{ 
 background-color: darkgreen;
-color: aliceblue;
+background-image:url(camo.jfif) ;
+color: rgb(255, 255, 255);
 font-style:oblique;
-
+text-align: center;
 }
 .pag-inicial{
    text-align: center; 
 }
 h1{
  font-size: 70px ;   
+ text-shadow: 0.1em 0.1em 0.2em black
 }
+a{
+  background-color: aliceblue;
+  text-shadow: 0.1em 0.1em 0.2em black;
+  font-size: 40px;
+  color: black;
+  
+}
+
