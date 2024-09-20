@@ -19,4 +19,14 @@ a{
   color: black;
   
 }
+.botoes{
+  display: flex;
+  width: 100% ;
+  justify-content: center;
+
+}
+.botoes a{
+  margin: 20px;
+  text-decoration: none;
+}
 
