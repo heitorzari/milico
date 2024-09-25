@@ -30,3 +30,25 @@ a{
   text-decoration: none;
 }
 
+.caixa-de-login{
+  margin-top: 15%;
+  font-size: 30px;
+}
+.caixa-de-login input{
+  width: 30%;
+}
+.caixa-de-login p{
+ font-size: 50px; 
+}
+.caixa-de-cadastro{
+  margin-top:15% ;
+  font-size: 30px;
+}
+
+  .caixa-de-cadastro {
+    font-size: 50px;
+  }
+
+  .caixa-de-cadastro input{
+  width: 30%;
+  }
