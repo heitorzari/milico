@@ -1,0 +1,54 @@
+body{ 
+background-color: darkgreen;
+background-image:url(camo.jfif) ;
+color: rgb(255, 255, 255);
+font-style:oblique;
+text-align: center;
+}
+.pag-inicial{
+   text-align: center; 
+}
+h1{
+ font-size: 70px ;   
+ text-shadow: 0.1em 0.1em 0.2em black
+}
+a{
+  background-color: aliceblue;
+  text-shadow: 0.1em 0.1em 0.2em black;
+  font-size: 40px;
+  color: black;
+  
+}
+.botoes{
+  display: flex;
+  width: 100% ;
+  justify-content: center;
+
+}
+.botoes a{
+  margin: 20px;
+  text-decoration: none;
+}
+
+.caixa-de-login{
+  margin-top: 15%;
+  font-size: 30px;
+}
+.caixa-de-login input{
+  width: 30%;
+}
+.caixa-de-login p{
+ font-size: 50px; 
+}
+.caixa-de-cadastro{
+  margin-top:1% ;
+  font-size: 30px;
+}
+
+  .caixa-de-cadastro {
+    font-size: 50px;
+  }
+
+  .caixa-de-cadastro input{
+  width: 30%;
+  }
